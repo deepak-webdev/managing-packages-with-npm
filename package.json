@@ -2,6 +2,7 @@
     "author": "deepak-webdev",
     "description": "A web app that helps people to learn",
     "license": "MIT",
+    "version": "1.0.0",
     "keywords": [
         "descriptive",
         "related",
