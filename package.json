@@ -1,6 +1,7 @@
 {
     "author": "deepak-webdev",
     "description": "A web app that helps people to learn",
+    "license": "MIT",
     "keywords": [
         "descriptive",
         "related",
